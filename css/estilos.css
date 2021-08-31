@@ -5,7 +5,8 @@ html{
 body{
     margin:0;
     padding:0;
-    background:linear-gradient(#7209b7,#3f37c0);
+    background:linear-gradient(#7209b7,#3f37c0) no-repeat fixed;
+    height:100%;
 }
 .contenedor{
     margin:50px auto;  /*el auto es para que se centre el div*/
